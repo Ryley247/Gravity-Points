@@ -1,0 +1,14 @@
+{
+  "name": "Gravity Points",
+  "short_name": "Gravity Points",
+  "description": "Interactive Gravity Points particle simulation with a customizable control panel.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b3338",
+  "theme_color": "#0b3338",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
